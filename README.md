@@ -6,5 +6,5 @@
 
 
 #### 데이터셋
-- IMDB Spoiler Dataset(Can you identify which reviews have spoilers to improve user experience?
+IMDB Spoiler Dataset(Can you identify which reviews have spoilers to improve user experience?
 https://www.kaggle.com/rmisra/imdb-spoiler-dataset?select=IMDB_reviews.json
